@@ -44,6 +44,4 @@ python graph_clustering.py --datapath='../../crawled' --lookup_path='../NEW-LOOK
 ```
 Check output files in `./output_reduced` directory.
 
-## Citing This Work
-
 
